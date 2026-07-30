@@ -2,6 +2,8 @@
 
 comentártios feitos por Sivieri
 
+outro comentario
+
 */
 
 import { View, Text, Button } from 'react-native';
