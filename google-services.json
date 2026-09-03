@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78115113540",
+    "project_id": "monitoraif-d7d5d",
+    "storage_bucket": "monitoraif-d7d5d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78115113540:android:654564c1a7829b2968ca11",
+        "android_client_info": {
+          "package_name": "monitoraif.com.br"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78115113540-o3a52nph7vfb8tjl01853vaujk74jb3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaDH_v2rzArmCX0s-m8SUhZxmeMs-P3so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78115113540-o3a52nph7vfb8tjl01853vaujk74jb3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
