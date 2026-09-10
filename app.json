@@ -21,7 +21,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "br.edu.monitoraif"
+      "package": "monitoraif.iftm"
     },
     "web": {
       "favicon": "./assets/favicon.png"
