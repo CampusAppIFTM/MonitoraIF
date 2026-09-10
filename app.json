@@ -21,7 +21,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "br.edu.monitoraif"
+      "package": "com.professorangoti"
     },
     "web": {
       "favicon": "./assets/favicon.png"
