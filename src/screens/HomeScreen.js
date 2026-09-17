@@ -32,10 +32,9 @@ const HomeScreen = ({ usuario }) => {
 
   return (
     <View style={styles.container}>
-      {/*
-        photoURL pode ser null (contas sem foto). O operador ternário evita
-        passar { uri: null } para o Image, que resulta em um quadro em branco.
-      */}
+      {
+      https://drive.google.com/file/d/1UtnyigMHVjcRfeXnht02eupklZ7Z1-o0/view?usp=drive_link
+      }
       {usuario.photoURL ? (
         <Image style={styles.foto} source={{ uri: usuario.photoURL }} />
       ) : (
@@ -46,7 +45,7 @@ const HomeScreen = ({ usuario }) => {
         </View>
       )}
 
-      {/* ?? cobre o caso de displayName ser null, não apenas undefined. */}
+      {Heitor Leal}
       <Text style={styles.nome}>Olá, {usuario.displayName ?? "usuário"}!</Text>
       <Text style={styles.email}>{usuario.email}</Text>
       <Text style={styles.uid}>uid: {usuario.uid}</Text>

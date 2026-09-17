@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "47327436898",
-    "project_id": "auth-10e2e",
-    "storage_bucket": "auth-10e2e.firebasestorage.app"
+    "project_number": "676312336455",
+    "project_id": "auth-bb9c1",
+    "storage_bucket": "auth-bb9c1.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:47327436898:android:eee126e1d28464887a713b",
+        "mobilesdk_app_id": "1:676312336455:android:1c2c42273f65d6d8ee4962",
         "android_client_info": {
-          "package_name": "com.professorangoti"
+          "package_name": "monitoraif.iftm"
         }
       },
       "oauth_client": [
         {
-          "client_id": "47327436898-ps4k4c9rjpfqa08ihrsmg1h23i3lt0r2.apps.googleusercontent.com",
+          "client_id": "676312336455-cj0om82dj84sul2sla7f5fa87cds9qf6.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.professorangoti",
+            "package_name": "monitoraif.iftm",
             "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
           }
         },
         {
-          "client_id": "47327436898-tsrcpcg6h4bcdeg4tikh52aovs7nivdu.apps.googleusercontent.com",
+          "client_id": "676312336455-3panj4ttmg4vjs8ogr3ksj7onbrsjbhi.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB9vna-LKGszzXVHfeeONE9JMg-_0fAHKs"
+          "current_key": "AIzaSyCOJWfGCMpG7D-4zeGzzyB0b_OXHHlTAR8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "47327436898-tsrcpcg6h4bcdeg4tikh52aovs7nivdu.apps.googleusercontent.com",
+              "client_id": "676312336455-3panj4ttmg4vjs8ogr3ksj7onbrsjbhi.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
